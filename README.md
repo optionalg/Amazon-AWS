@@ -1,2 +1,1 @@
-# Amazo--AWS
-my work on AWS
+# Amazon-AWS
